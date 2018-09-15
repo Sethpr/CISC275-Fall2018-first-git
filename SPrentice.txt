@@ -1,0 +1,3 @@
+2: the objects created are 3 Dogs, the arraylist of dogs, and the class made for the comparator.
+
+3: the comparator constructor is in the line "Collections.sort(dogs, new Comparator<Animal>(){" 
